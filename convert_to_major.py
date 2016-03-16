@@ -3,7 +3,7 @@ import argparse
 
 
 class ConverterMajorSystem():
-    """class for converting a number to words using the major system."""
+    """Class for converting a number to words using the major system."""
 
     def __init__(self, path):
         """Initialize class and copy path to major system."""
@@ -15,14 +15,25 @@ class ConverterMajorSystem():
         major_list = dict()
         with open(path, 'r') as file:
             for line in file:
+                line = line.strip()
                 number, word = line.split(';')
                 major_list[number] = word
         return major_list
 
-    
+    def convert(self, numbers):
+        """Convert numbers to words."""
+        number_groups = [numbers[idx:idx+3] for idx in range(0, len(numbers), 3)]
+        output = ['{}: {}'.format(group, self.major_list[group]) for group in number_groups]
+        return output
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Converts a number into words using a major system')
     parser.add_argument('major_list', help='file containing a major list in csv-format')
 
     args = parser.parse_args()
     converter = ConverterMajorSystem(args.major_list)
+
+    numbers = input()
+    for line in converter.convert(numbers):
+        print(line)
