@@ -23,7 +23,8 @@ class ConverterMajorSystem():
     def convert(self, numbers):
         """Convert numbers to words."""
         number_groups = [numbers[idx:idx+3] for idx in range(0, len(numbers), 3)]
-        output = ['{}: {}'.format(group, self.major_list[group]) for group in number_groups]
+        output = ['Index {:4}, Digits {}: {}'.format(idx * 3 + 1, group, self.major_list[group])
+                  for idx, group in enumerate(number_groups)]
         return output
 
 
