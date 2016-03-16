@@ -8,9 +8,9 @@ class ConverterMajorSystem():
     def __init__(self, path):
         """Initialize class and copy path to major system."""
         super(ConverterMajorSystem, self).__init__()
-        self.major_list = self.read_major_list(path)
+        self.major_list = self.__read_major_list(path)
 
-    def read_major_list(self, path):
+    def __read_major_list(self, path):
         """Read the csv-file of a major list and return the parsed list as dict."""
         try:
             major_list = dict()
