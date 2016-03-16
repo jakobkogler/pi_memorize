@@ -1,0 +1,400 @@
+Index    1, Digits 141: Torte
+Index    4, Digits 592: Lappen, Lippe
+Index    7, Digits 653: Schlamm
+Index   10, Digits 589: Laufbursche
+Index   13, Digits 793: Kaba-Milchgetränk
+
+Index   16, Digits 238: Nymphe (ph = f)
+Index   19, Digits 462: Rochen
+Index   22, Digits 643: Schramme
+Index   25, Digits 383: Impfmaßnahme, Movement
+Index   28, Digits 279: Ankuppeln
+
+Index   31, Digits 502: Lesen
+Index   34, Digits 884: Pfifferling
+Index   37, Digits 197: Tabak
+Index   40, Digits 169: Duschbad
+Index   43, Digits 399: MP3-Player
+
+Index   46, Digits 375: Maiglöckchen
+Index   49, Digits 105: Dussel
+Index   52, Digits 820: Wanze
+Index   55, Digits 974: Poker
+Index   58, Digits 944: Brauerei
+
+Index   61, Digits 592: Lappen, Lippe
+Index   64, Digits 307: Maske, Muskel
+Index   67, Digits 816: Fetisch
+Index   70, Digits 406: Rauchsalon
+Index   73, Digits 286: Einweichen
+
+Index   76, Digits 208: Naßwischen, Nosferatu
+Index   79, Digits 998: Bobfahrt
+Index   82, Digits 628: Schneeverwehung
+Index   85, Digits 034: Zimmer
+Index   88, Digits 825: Finale
+
+Index   91, Digits 342: Marion, Marinade, Murnau, Marionette
+Index   94, Digits 117: TDK (Kassetten)
+Index   97, Digits 067: Suchglas
+Index  100, Digits 982: Zapfhahn
+Index  103, Digits 148: Torf
+
+Index  106, Digits 086: Seefisch
+Index  109, Digits 513: Altamira, Latte Machiato
+Index  112, Digits 282: Anfang
+Index  115, Digits 306: Masochist
+Index  118, Digits 647: Schreck
+
+Index  121, Digits 093: Seba-Med
+Index  124, Digits 844: Ferero Fahrrad Fahrer, Führerschein
+Index  127, Digits 609: Sch**ßbulle
+Index  130, Digits 550: Öl-Lösung
+Index  133, Digits 582: Laufen
+
+Index  136, Digits 231: Einmotten Nematoden
+Index  139, Digits 725: Kanal (-Deckel) Kanneloni Genial,Genealoge
+Index  142, Digits 359: Milbe
+Index  145, Digits 408: Reispfanne
+Index  148, Digits 128: Tonpfeiffe
+
+Index  151, Digits 481: Rafting
+Index  154, Digits 117: TDK (Kassetten)
+Index  157, Digits 450: Rolls Royce
+Index  160, Digits 284: Nofretete
+Index  163, Digits 102: Düsentrieb
+
+Index  166, Digits 701: Kasten Gast,Geisterbahn
+Index  169, Digits 938: BMW
+Index  172, Digits 521: Land
+Index  175, Digits 105: Dussel
+Index  178, Digits 559: Lollipop, Lila Pause
+
+Index  181, Digits 644: Schererei / Chirurg
+Index  184, Digits 622: Scheunentor
+Index  187, Digits 948: Professor
+Index  190, Digits 954: Böller
+Index  193, Digits 930: Pommes
+
+Index  196, Digits 381: Mufti
+Index  199, Digits 964: Bücher
+Index  202, Digits 428: Rheinfall (Schaffhausen)
+Index  205, Digits 810: Witz
+Index  208, Digits 975: Pokal
+
+Index  211, Digits 665: Schaschlik
+Index  214, Digits 933: Baummarder
+Index  217, Digits 446: Rohrschach
+Index  220, Digits 128: Tonpfeiffe
+Index  223, Digits 475: Orgel / Herkules
+
+Index  226, Digits 648: Schraffur
+Index  229, Digits 233: Einmummeln
+Index  232, Digits 786: Kuhfisch Gefecht,Gewächshaus - Kiwischale
+Index  235, Digits 783: Kaufmann Kaffeemaschine
+Index  238, Digits 165: Tischler Dachlatte
+
+Index  241, Digits 271: Nackedei
+Index  244, Digits 201: Nest
+Index  247, Digits 909: Pißpott
+Index  250, Digits 145: Troll
+Index  253, Digits 648: Schraffur
+
+Index  256, Digits 566: Lauchschnitte / Löschschaum
+Index  259, Digits 923: Biene Maja
+Index  262, Digits 460: Riechsalz Rauchzeichen
+Index  265, Digits 348: Morphium
+Index  268, Digits 610: Schatz
+
+Index  271, Digits 454: Roller
+Index  274, Digits 326: München
+Index  277, Digits 648: Schraffur
+Index  280, Digits 213: Anatomie (Glasbehälter)
+Index  283, Digits 393: Mai-Baum
+
+Index  286, Digits 607: Schoßkind
+Index  289, Digits 260: Anschiß
+Index  292, Digits 249: Narbe
+Index  295, Digits 141: Torte
+Index  298, Digits 273: Nahkampf
+
+Index  301, Digits 724: Knorr General
+Index  304, Digits 587: Laufkäfer
+Index  307, Digits 006: Sößchen
+Index  310, Digits 606: Schießscharte
+Index  313, Digits 315: Metall(-platte)
+
+Index  316, Digits 588: Laufweg
+Index  319, Digits 174: Dakar (Ralleywagen Paris-Dakar)
+Index  322, Digits 881: Vivat Fifty-Fifty
+Index  325, Digits 520: Linse
+Index  328, Digits 920: Panzer
+
+Index  331, Digits 962: Bauchnabel
+Index  334, Digits 829: Wonneproppen Weinberg(-schnecke)
+Index  337, Digits 254: Nilrose
+Index  340, Digits 091: Sabbat
+Index  343, Digits 715: Kittel göttlich,Gottlieb,Guadeloupe
+
+Index  346, Digits 364: Major(-System)
+Index  349, Digits 367: Muschik
+Index  352, Digits 892: Wappen
+Index  355, Digits 590: Laubsäge
+Index  358, Digits 360: Majestät
+
+Index  361, Digits 011: Zitadelle / Zutaten
+Index  364, Digits 330: Mamsell, Mommsen (Theodor)
+Index  367, Digits 530: Limousine
+Index  370, Digits 548: Larve, Lehrpfad (pf= 8 )
+Index  373, Digits 820: Wanze
+
+Index  376, Digits 466: Ärschchen /archaisch / Rauchschwalbe
+Index  379, Digits 521: Land
+Index  382, Digits 384: My Fair Lady
+Index  385, Digits 146: Dorsch
+Index  388, Digits 951: Blut
+
+Index  391, Digits 941: Pirat
+Index  394, Digits 511: Oldtimer
+Index  397, Digits 609: Sch**ßbulle
+Index  400, Digits 433: Rum-Mixgetränk
+Index  403, Digits 057: Silk (Seide) / Skull (engl. Schädel)
+
+Index  406, Digits 270: Nixe (x = ks = 70)
+Index  409, Digits 365: Muschel, Mischling
+Index  412, Digits 759: Klobürste Gelb,Galopp,Glaube
+Index  415, Digits 591: Eilbote/Libido / Albatros, Albtraum, Heilbad
+Index  418, Digits 953: Blumentopf
+
+Index  421, Digits 092: Sabine
+Index  424, Digits 186: Taufschein
+Index  427, Digits 117: TDK (Kassetten)
+Index  430, Digits 381: Mufti
+Index  433, Digits 932: Beamen
+
+Index  436, Digits 611: Judith
+Index  439, Digits 793: Kaba-Milchgetränk
+Index  442, Digits 105: Dussel
+Index  445, Digits 118: Tatwaffe
+Index  448, Digits 548: Larve, Lehrpfad (pf= 8 )
+
+Index  451, Digits 074: Zocker / Zucker
+Index  454, Digits 462: Rochen
+Index  457, Digits 379: Macbeth
+Index  460, Digits 962: Bauchnabel
+Index  463, Digits 749: Korb Grabmal,Graupel,Grips
+
+Index  466, Digits 567: Lochkarte / Lachgas, Lachklub
+Index  469, Digits 351: Malta, Molotow
+Index  472, Digits 885: Waffel
+Index  475, Digits 752: Kellner Kalender Gallenblase,Glanz,Galionsfigur
+Index  478, Digits 724: Knorr General
+
+Index  481, Digits 891: Wapiti
+Index  484, Digits 227: Einnicken
+Index  487, Digits 938: BMW
+Index  490, Digits 183: Tiefmoor
+Index  493, Digits 011: Zitadelle / Zutaten
+
+Index  496, Digits 949: Barbie
+Index  499, Digits 129: Tonband
+Index  502, Digits 833: Fememord WM-Mannschaft
+Index  505, Digits 673: Schaukampf
+Index  508, Digits 362: Maschendraht, Maschine (e.g. Automotor)
+
+Index  511, Digits 440: Rohrzucker
+Index  514, Digits 656: Schallschutz
+Index  517, Digits 643: Schramme
+Index  520, Digits 086: Seefisch
+Index  523, Digits 021: Sand
+
+Index  526, Digits 394: Ampere
+Index  529, Digits 946: Porsche
+Index  532, Digits 395: Möbel, Ampel
+Index  535, Digits 224: Sonnenuhr
+Index  538, Digits 737: Camcorder Kamikaze Geheimkamera,Geomagnetik
+
+Index  541, Digits 190: Topas
+Index  544, Digits 702: Kasino Gesundheit (Niesen), Gesangbuch
+Index  547, Digits 179: DKP (Hitlergruß eines Deppen ...)
+Index  550, Digits 860: Fischsuppe
+Index  553, Digits 943: Parmesan
+
+Index  556, Digits 702: Kasino Gesundheit (Niesen), Gesangbuch
+Index  559, Digits 770: Keks Gogostange,Gigasofa
+Index  562, Digits 539: Lampe, Olympia
+Index  565, Digits 217: Antike (Büste - Statue)
+Index  568, Digits 176: Deckchen Dickschädel
+
+Index  571, Digits 293: Nepomuk
+Index  574, Digits 176: Deckchen Dickschädel
+Index  577, Digits 752: Kellner Kalender Gallenblase,Glanz,Galionsfigur
+Index  580, Digits 384: My Fair Lady
+Index  583, Digits 674: Schocker
+
+Index  586, Digits 818: Fettwanst
+Index  589, Digits 467: Riechkolben
+Index  592, Digits 669: Schachbrett / Schachprogramm
+Index  595, Digits 405: Rüssel
+Index  598, Digits 132: Domina
+
+Index  601, Digits 000: Süßstoff
+Index  604, Digits 568: Elchwagen (Mercedes...)
+Index  607, Digits 127: Tanker
+Index  610, Digits 145: Troll
+Index  613, Digits 263: Anschmieren, Einschmeicheln
+
+Index  616, Digits 560: Lachs
+Index  619, Digits 827: Winkel
+Index  622, Digits 785: Kuhfladen Geflügel,Gewalt - Kaufhalle,Kavalier
+Index  625, Digits 771: Kakadu Kukident Gogotanz
+Index  628, Digits 342: Marion, Marinade, Murnau, Marionette
+
+Index  631, Digits 757: Kalk Kolkrabe Galgen
+Index  634, Digits 789: Kaffeebohne Gewebe(Stoff) - Cowboy,Kaffeepulver
+Index  637, Digits 609: Sch**ßbulle
+Index  640, Digits 173: Dekameron
+Index  643, Digits 637: Schaumkrone
+
+Index  646, Digits 178: Deckoffizier
+Index  649, Digits 721: Kante Kendo/Konto/Kondor Gandhi,Gnade,Gondel,Günther
+Index  652, Digits 468: Rauchfahne
+Index  655, Digits 440: Rohrzucker
+Index  658, Digits 901: Post (-bote)
+
+Index  661, Digits 224: Sonnenuhr
+Index  664, Digits 953: Blumentopf
+Index  667, Digits 430: Rahmspinat Ramses
+Index  670, Digits 146: Dorsch
+Index  673, Digits 549: Lorbeer
+
+Index  676, Digits 585: Löffel
+Index  679, Digits 371: Miktion
+Index  682, Digits 050: Salz
+Index  685, Digits 792: Kabine Gibbon,Gebunden
+Index  688, Digits 279: Ankuppeln
+
+Index  691, Digits 689: Schiffbuch Schuhfabrik
+Index  694, Digits 258: Analfalte Nilpferd
+Index  697, Digits 923: Biene Maja
+Index  700, Digits 542: Lern(kartei), Loren (Sophia)
+Index  703, Digits 019: Sodbrennen
+
+Index  706, Digits 956: Plüsch
+Index  709, Digits 112: Titanic
+Index  712, Digits 129: Tonband
+Index  715, Digits 021: Sand
+Index  718, Digits 960: Büchse
+
+Index  721, Digits 864: Fischer
+Index  724, Digits 034: Zimmer
+Index  727, Digits 418: Radfahrer RTW (RettungsTransportWagen)
+Index  730, Digits 159: Tulpe
+Index  733, Digits 813: Fata Morgana
+
+Index  736, Digits 629: Schneeball
+Index  739, Digits 774: Kikeriki Geografie,Geiger - Kicker
+Index  742, Digits 771: Kakadu Kukident Gogotanz
+Index  745, Digits 309: Mißbrauch, Mispel
+Index  748, Digits 960: Büchse
+
+Index  751, Digits 518: Litfaß
+Index  754, Digits 707: Kaskade Gaskammer,Gasgemisch
+Index  757, Digits 211: Nottelefon, Untoter
+Index  760, Digits 349: Mirabelle, Mürbeteig
+Index  763, Digits 999: Beabab
+
+Index  766, Digits 998: Bobfahrt
+Index  769, Digits 372: Magen, Imogen, I mog net mehr
+Index  772, Digits 978: Backfisch
+Index  775, Digits 049: Sorbas
+Index  778, Digits 951: Blut
+
+Index  781, Digits 059: Salbe
+Index  784, Digits 731: Komet Geheimtinte
+Index  787, Digits 732: Kamin Gemeinde,Geheimnis,Gymnasium
+Index  790, Digits 816: Fetisch
+Index  793, Digits 096: Süppchen
+
+Index  796, Digits 318: Mitfahrer
+Index  799, Digits 595: Libelle, Labello
+Index  802, Digits 024: Senor
+Index  805, Digits 459: Urlaub (Cocktail)
+Index  808, Digits 455: Roll-Laden
+
+Index  811, Digits 346: Morchel
+Index  814, Digits 908: Passwort
+Index  817, Digits 302: Meisenknödel
+Index  820, Digits 642: Schrein
+Index  823, Digits 522: Lennon
+
+Index  826, Digits 308: Mausefalle
+Index  829, Digits 253: Nullmeridian
+Index  832, Digits 344: Maurer, Mirror
+Index  835, Digits 685: Schaufel
+Index  838, Digits 035: Somali
+
+Index  841, Digits 261: Nacht
+Index  844, Digits 931: Pomade
+Index  847, Digits 188: Taufwasser
+Index  850, Digits 171: Doktor /Taktstock
+Index  853, Digits 010: Zitze Zitze
+
+Index  856, Digits 003: Sesam (öffne Dich)
+Index  859, Digits 137: Dummkopf
+Index  862, Digits 838: Wum&Wendelin Vom Winde verweht
+Index  865, Digits 752: Kellner Kalender Gallenblase,Glanz,Galionsfigur
+Index  868, Digits 886: Wehwehchen Aufwaschen
+
+Index  871, Digits 587: Laufkäfer
+Index  874, Digits 533: Lamm-Mutter, Alma Mater
+Index  877, Digits 208: Naßwischen, Nosferatu
+Index  880, Digits 381: Mufti
+Index  883, Digits 420: Rhinozeros
+
+Index  886, Digits 617: Schotokan
+Index  889, Digits 177: Tanga-girl, Tangogruppe
+Index  892, Digits 669: Schachbrett / Schachprogramm
+Index  895, Digits 147: DRK = Deutsches Rotes Kreuz
+Index  898, Digits 303: Mesmerismus (Hypnose)
+
+Index  901, Digits 598: Laubfrosch
+Index  904, Digits 253: Nullmeridian
+Index  907, Digits 490: Rübezahl Ribosom
+Index  910, Digits 428: Rheinfall (Schaffhausen)
+Index  913, Digits 755: Kuli-Linie Galileo,Glühlampe - Kalilauge,Kuala Lumpur,Ukulele
+
+Index  916, Digits 468: Rauchfahne
+Index  919, Digits 731: Komet Geheimtinte
+Index  922, Digits 159: Tulpe
+Index  925, Digits 562: Loch Ness, Leichnam
+Index  928, Digits 863: Waschmaschine Wischmop
+
+Index  931, Digits 882: Pfeiffen Fafnir Waffen
+Index  934, Digits 353: Millimeter(-papier)
+Index  937, Digits 787: Kafka Gefüge,gewagt
+Index  940, Digits 593: Lebemann
+Index  943, Digits 751: Geldautomat,Gletscher,Gold,Goliath Klodeckel Kilt
+
+Index  946, Digits 957: Pelikan
+Index  949, Digits 781: Cafeteria Gift
+Index  952, Digits 857: Falke
+Index  955, Digits 780: Kaffeesahne Kaufhaus Gewässer,Gewissen
+Index  958, Digits 532: Limonen, Limonade
+
+Index  961, Digits 171: Doktor /Taktstock
+Index  964, Digits 226: Ninja (j = 6)
+Index  967, Digits 806: physische karte
+Index  970, Digits 613: Scheidemünze
+Index  973, Digits 001: Zisterne
+
+Index  976, Digits 927: Pinocchio
+Index  979, Digits 876: Weckchen
+Index  982, Digits 611: Judith
+Index  985, Digits 195: Toblerone Tippelbruder
+Index  988, Digits 909: Pißpott
+
+Index  991, Digits 216: Natascha
+Index  994, Digits 420: Rhinozeros
+Index  997, Digits 198: Topf
+Index 1000, Digits 938: BMW
