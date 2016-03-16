@@ -30,10 +30,13 @@ class ConverterMajorSystem():
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Converts a number into words using a major system')
     parser.add_argument('major_list', help='file containing a major list in csv-format')
+    parser.add_argument('--group', type=int, default=5, help='group words into sentences (default: 5)')
 
     args = parser.parse_args()
     converter = ConverterMajorSystem(args.major_list)
 
     numbers = input()
-    for line in converter.convert(numbers):
+    for idx, line in enumerate(converter.convert(numbers)):
         print(line)
+        if (idx + 1) % args.group == 0:
+            print()
