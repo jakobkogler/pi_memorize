@@ -12,18 +12,14 @@ class ConverterMajorSystem():
 
     def __read_major_list(self, path):
         """Read the csv-file of a major list and return the parsed list as dict."""
-        try:
-            major_list = dict()
-            with open(path, 'r') as file:
-                for line in file:
-                    number, word = line.split(';')
-                    major_list[number] = word
-            return major_list
-        except (IOError, OSError):
-            print('Some errors occured while reading the major-list file.')
-            print('Check, if the path to the file is correct and if the file is in the correct format.')
+        major_list = dict()
+        with open(path, 'r') as file:
+            for line in file:
+                number, word = line.split(';')
+                major_list[number] = word
+        return major_list
 
-
+    
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Converts a number into words using a major system')
     parser.add_argument('major_list', help='file containing a major list in csv-format')
