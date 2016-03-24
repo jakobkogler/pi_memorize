@@ -9,7 +9,7 @@ class ComputePi:
 
     @staticmethod
     def BBP(precision):
-        """Compute pi using the Bailey–Borwein–Plouffe formula."""
+        """Compute pi using the Bailey-Borwein-Plouffe formula."""
         getcontext().prec = precision + 20
 
         pi = Decimal(0)
