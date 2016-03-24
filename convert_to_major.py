@@ -11,7 +11,6 @@ class ConverterMajorSystem():
 
     def __init__(self, path):
         """Initialize class and copy path to major system."""
-        super(ConverterMajorSystem, self).__init__()
         self.major_list = self.__read_major_list(path)
 
     @staticmethod
