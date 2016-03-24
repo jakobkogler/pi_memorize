@@ -10,7 +10,8 @@ class ConverterMajorSystem():
         super(ConverterMajorSystem, self).__init__()
         self.major_list = self.__read_major_list(path)
 
-    def __read_major_list(self, path):
+    @staticmethod
+    def __read_major_list(path):
         """Read the csv-file of a major list and return the parsed list as dict."""
         major_list = dict()
         with open(path, 'r') as file:
@@ -23,7 +24,9 @@ class ConverterMajorSystem():
     def convert(self, numbers):
         """Convert numbers to words."""
         number_groups = [numbers[idx:idx+3] for idx in range(0, len(numbers), 3)]
-        output = ['Index {:4}, Digits {}: {}'.format(idx * 3 + 1, group, self.major_list[group])
+        template = 'Index {index:4}, Digits {digits}: {words}'
+        output = [template.format(index=idx*3+1, digits=group,
+                                  words=self.major_list[group])
                   for idx, group in enumerate(number_groups)]
         return output
 
