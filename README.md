@@ -23,4 +23,4 @@ Index    7, Digits 653: Schlamm
 
 ## Licence ##
 
-Copyright (C) 2016 Jakob Kogler, [MIT License](https://github.com/jakobkogler/PythIDE/blob/master/LICENSE.txt)
+Copyright (C) 2016 Jakob Kogler, [MIT License](https://github.com/jakobkogler/pi_memorize/blob/master/LICENSE.txt)
