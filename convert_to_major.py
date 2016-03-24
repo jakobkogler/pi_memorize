@@ -1,5 +1,9 @@
 """Converts a number into words using a major system."""
 import argparse
+from collections import namedtuple
+
+
+ConverterOutput = namedtuple('ConverterOutput', 'index digits words'.split())
 
 
 class ConverterMajorSystem():
@@ -24,9 +28,7 @@ class ConverterMajorSystem():
     def convert(self, numbers):
         """Convert numbers to words."""
         number_groups = [numbers[idx:idx+3] for idx in range(0, len(numbers), 3)]
-        template = 'Index {index:4}, Digits {digits}: {words}'
-        output = [template.format(index=idx*3+1, digits=group,
-                                  words=self.major_list[group])
+        output = [ConverterOutput(index=idx*3+1, digits=group, words=self.major_list[group])
                   for idx, group in enumerate(number_groups)]
         return output
 
@@ -40,7 +42,8 @@ if __name__ == '__main__':
     converter = ConverterMajorSystem(args.major_list)
 
     numbers = input()
-    for idx, line in enumerate(converter.convert(numbers)):
-        print(line)
+    for idx, output in enumerate(converter.convert(numbers)):
+        template = 'Index {index:4}, Digits {digits}: {words}'
+        print(template.format(index=output.index, digits=output.digits, words=output.words))
         if (idx + 1) % args.group == 0:
             print()
