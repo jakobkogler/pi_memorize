@@ -46,11 +46,11 @@ class ComputePi:
         return total
 
     @staticmethod
-    def machin_euler(one):
+    def machin_euler(digits):
         """Compute pi using Machin's formula.
 
         Based on http://www.craig-wood.com/nick/articles/pi-machin/"""
-        one *= 10**20
+        one = 10**(digits + 20)
         pi = 4*(4*ComputePi.arctan_euler(5, one) - ComputePi.arctan_euler(239, one))
         pi //= 10**20
         return '3.{}'.format(str(pi)[1:])
@@ -65,4 +65,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     pi_computer = ComputePi()
 
-    print(pi_computer.machin_euler(10**args.precision))
+    print(pi_computer.machin_euler(args.precision))
