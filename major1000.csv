@@ -1,5 +1,5 @@
 000;Süßstoff
-001;Zisterne / Assistent
+001;Assistent
 002;Soßen(kelle)
 003;Sesam (öffne dich)
 004;Cäsar
@@ -748,106 +748,106 @@
 747;Krake
 748;Giraffe
 749;Grab
-750;Kloss Glas,Gleis
-751;Geldautomat,Gletscher,Gold,Goliath Klodeckel Kilt 
-752;Kellner Kalender Gallenblase,Glanz,Galionsfigur
-753;Kalumet Golem,Glimmer,Gilmore Girls - Columbus,Klammeraffe
-754;Keller Killer Galerie,Gelehrter
-755;Kuli-Linie Galileo,Glühlampe - Kalilauge,Kuala Lumpur,Ukulele
-756;Kolchis Gelächter,Gleichgewicht,Gulaschkanone - Kühlschrank
-757;Kalk Kolkrabe Galgen
-758;Kalif Golf
-759;Klobürste Gelb,Galopp,Glaube
-760;Geschoss - Kochsalz
-761;Keuschheit Geschütz,Gicht - Kajüte,Kochtopf,Kojote
-762;Kuchen Geschenk
-763;Kaschemme Kaschmir Geschmack,Geschmückt
-764;Kichererbsen Geschirr
-765;Kachel Geschlecht
-766;Kochschule Geschichte
-767;Kochkittel Kachektisch Geschicklichkeitsspiel
-768;Kochfolie Geschäft,Geschwister,Geschwindigkeit
-769;Kochprobe Geschiebe
-770;Keks Gogostange,Gigasofa
-771;Kakadu Kukident Gogotanz
-772;Kokain Kacken Gegenteil,Geigenbauer,Gigant
-773;Kakao-Mischung Goggomobil - Kaugummi
-774;Kikeriki Geografie,Geiger - Kicker
-775;Kokolores Gigolo,Google - Kegel,Kykladen
-776;Kackschemel 
-777;Coca Cola Giga Games,Gogo-Girl
-778;Coq au vin Gigawattstunde
-779;Kakaobohne Cockpit Gigabit
-780;Kaffeesahne Kaufhaus Gewässer,Gewissen
-781;Cafeteria Gift
-782;Koffein Gewinn,Gewand - Kevin,kiffen
-783;Kaufmann Kaffeemaschine
-784;Kiefer Gefahr,Gefrieren,Gewürz
-785;Kuhfladen Geflügel,Gewalt - Kaufhalle,Kavalier
-786;Kuhfisch Gefecht,Gewächshaus - Kiwischale
-787;Kafka Gefüge,gewagt
-788;Kaffeefilter Kaufvertrag
-789;Kaffeebohne Gewebe(Stoff) - Cowboy,Kaffeepulver
-790;Kuhpisse (sorry) Gebiss,Gips - Kapazität,Kapsel,Kapuze,Kapuzinerkresse
-791;Cupido Koptscha Kapitän Gebet,Ägyptisch,Gebäude
-792;Kabine Gibbon,Gebunden
-793;Kabum 
-794;Kobra Gabriel,Gebirge,Geburt
+750;Glas
+751;Gold
+752;Kellner
+753;Golum
+754;Killer
+755;Ukulele
+756;Kühlschrank
+757;Galgen
+758;Golf
+759;Klobürste
+760;Kochsendung
+761;Kojote
+762;Kuchen
+763;Geschmack
+764;Geschiertuch
+765;Kachelofen
+766;Geschichte
+767;Kochkurs
+768;Geschäft
+769;Kochbuch
+770;Gogostange
+771;Kakadu
+772;Kokain
+773;Kaugummi
+774;Kicker
+775;Google
+776;Gekicher
+777;Coca Cola
+778;Gekeife
+779;Cockpit
+780;Kaufhaus
+781;Gift
+782;Koffein
+783;Kaffeemaschine
+784;Gewürz
+785;Kuhfladen
+786;Gewicht
+787;Käfig
+788;Kaffeefilter
+789;Cowboy
+790;Gips
+791;Gebet
+792;Coupon
+793;Kabum
+794;Kobra
 795;Kapelle Gabel
-796;Copy-Shop Gebüsch - Cappuchino
-797;Kopeke Kuhpocken Gebäck
-798;Kopf Gipfel
-799;Capablanca (Schachspieler)Guppybehausung (=Aquarium), Gepopel
-800;Fußsohle 
-801;Faust (Goethe)
+796;Cappuchino
+797;Gepäck
+798;Kopf
+799;Gepopel
+800;Fußsohle
+801;Wüste
 802;Hufeisen
-803;Fußmarsch 
+803;Fußmattte
 804;Wasser
 805;Fessel
-806;physische karte
+806;Viehzucht
 807;Whiskas
-808;Vesuv
-809;Wespe 
+808;Weißwein
+809;Wespe
 810;Witz
 811;Fette
 812;Faden
-813;Fata Morgana 
-814;Futter
+813;Fata Morgana
+814;Feder
 815;Fidel Castro
-816;Fetisch 
-817;Wodka 
-818;Fettwanst 
-819;Football 
-820;Wanze 
-821;Fantom Phantom/Fanta 
-822;Wannen, Weinen Winona (Ryder) Finanzamt, Finnen, Fahnen
-823;Phänomen Weinmaß Wohnheim
-824;Feinripp (Männerslip) 
-825;Finale 
-826;Weinschale Wunsch 
-827;Winkel 
-828;Weinfaß 
-829;Wonneproppen Weinberg(-schnecke)
-830;Famos Phimose Wams
-831;Wim Thoelke V-Motor, Heavy Metal 
-832;Woman 
-833;Fememord WM-Mannschaft 
-834;Weimar 
-835;Fummel Familie 
-836;Aufmacher Aufmischen 
-837;Fimo-Knete 
-838;Wum&Wendelin Vom Winde verweht
-839;Wampe Wampum, Wimper Vampir
-840;Färse, Ferse, Pfirsisch Fahrzeug, Förster, Frisör, Warze, Wurst, Fürst, Feuersalamander, Everest
+816;Watsche
+817;Wodka
+818;Witwe
+819;Wettbewerb
+820;Wanze
+821;Fanta
+822;Wohnung
+823;Wohnheim
+824;Feinripp
+825;Vanille
+826;Wunsch
+827;Winkel
+828;Weinfaß
+829;Weinbergschnecke
+830;Wams
+831;Heavy Metal
+832;Woman
+833;WM-Mannschaft
+834;Viehmarkt
+835;Familie
+836;Aufmachen
+837;Fimoknete
+838;Vom Winde verweht
+839;Vampir
+840;Pfirsish
 841;Pferd
-842;Farina Warnschild Werner 
-843;Formel 
-844;Ferero Fahrrad Fahrer, Führerschein
-845;Frolic Feuerland, Forelle, Frau Holle, Frühling
-846;Frosch 
-847;Ferkel 
-848;Vierfarbenkatze Werwolf 
-849;Farbeimer 
+842;Werner
+843;Formel 1
+844;Ferero
+845;Frolic
+846;Frosch
+847;Ferkel
+848;Werwolf
+849;Farbeimer
 850;Fels 
 851;Folter Falter, Filter, Fladen 
 852;Flinte 
